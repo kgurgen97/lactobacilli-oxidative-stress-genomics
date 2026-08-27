@@ -1,0 +1,4 @@
+species,n_curated_genes,median_omega,median_bootstrap_omega,q1_omega,q3_omega,total_valid_pairs
+L. delbrueckii,10,0.12835,0.12825,0.10995,0.16165,4360
+L. plantarum,10,0.0311,0.0308,0.018325,0.05715,3694
+L. rhamnosus,10,0.02175,0.02175,0.0059,0.0391,3655

@@ -1,0 +1,105 @@
+species,gene_family,annotation,n_genomes_present,n_sequences_recovered,n_multicopy_genomes,eligible_for_ng86,species_input_sha256
+L. rhamnosus,trxA_1,Thioredoxin,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,ytpP,Thioredoxin-like protein YtpP,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,trxA_2,Thioredoxin,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,ssbA,Single-stranded DNA-binding protein A,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,recR,Recombination protein RecR,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,mutM,Formamidopyrimidine-DNA glycosylase;hypothetical protein,30,30,1,False,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,mutS_2~~~mutS_1,hypothetical protein;DNA mismatch repair protein MutS,28,28,3,False,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,uvrA_2,hypothetical protein;UvrABC system protein A,30,30,1,False,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,uvrA_1~~~uvrA_3,UvrABC system protein A,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,polA,DNA polymerase I,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,ruvB_1~~~ruvB_2,hypothetical protein;Holliday junction ATP-dependent DNA helicase RuvB,28,28,3,False,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,nth_3~~~pdg,Endonuclease III;Ultraviolet N-glycosylase/AP lyase,30,30,1,False,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,nth~~~nth_1,Endonuclease III,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,recO,DNA repair protein RecO,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,nth~~~nth_2,Endonuclease III,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,mutL,DNA mismatch repair protein MutL,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,ssb_1~~~ssb_2,Single-stranded DNA-binding protein,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,recA_2~~~recA_3,Protein RecA,30,30,1,False,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,uvrC_2~~~uvrC_1~~~uvrC,UvrABC system protein C,30,30,1,False,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,ruvA,Holliday junction ATP-dependent DNA helicase RuvA,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,trxB_2~~~trxB_1~~~trxB,Thioredoxin reductase,30,30,1,False,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,ligA~~~ligA_1,DNA ligase,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,ruvB_2,Holliday junction ATP-dependent DNA helicase RuvB,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,recA_1,Protein RecA,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,nox_3,NADH oxidase,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,nox_2,NADH oxidase,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,radA,DNA repair protein RadA,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,recN,DNA repair protein RecN,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,dnaK,Chaperone protein DnaK,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,uvrB,UvrABC system protein B,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,mutS_2,DNA mismatch repair protein MutS,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,uvrA_1,UvrABC system protein A,31,31,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,nox_2~~~nox_1,NADH oxidase,19,19,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,ligA_1~~~ligA_2,hypothetical protein;DNA ligase,16,16,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,group_1158,Single-stranded DNA-binding protein,10,10,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,ruvB_3,Holliday junction ATP-dependent DNA helicase RuvB,9,9,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,group_1844,Single-stranded DNA-binding protein,5,5,0,True,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,group_2169,Single-stranded DNA-binding protein,3,3,0,False,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. rhamnosus,group_446,DNA mismatch repair protein MutS,1,1,0,False,3de4529df5220291b27aa956a3a76efca5e56a23be173a31b78d6654af79f3ed
+L. delbrueckii,uvrC,UvrABC system protein C,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,dnaX~~~ruvB_2,DNA polymerase III subunit tau;hypothetical protein;Holliday junction ATP-dependent DNA helicase RuvB,30,30,1,False,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,recO,DNA repair protein RecO,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,uvrA,UvrABC system protein A,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,uvrB_1~~~uvrB_2,UvrABC system protein B,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,recA,Protein RecA,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,ssb,Single-stranded DNA-binding protein,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,trxB,Thioredoxin reductase,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,ruvA,Holliday junction ATP-dependent DNA helicase RuvA,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,recR,Recombination protein RecR,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,mutM,Formamidopyrimidine-DNA glycosylase,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,ytpP,Thioredoxin-like protein YtpP,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,trxA_1~~~trxA_2~~~trxA,Thioredoxin,30,30,1,False,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,polA,DNA polymerase I,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,radA,DNA repair protein RadA,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,recN,DNA repair protein RecN,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,dnaK,Chaperone protein DnaK,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,mutL,DNA mismatch repair protein MutL,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,ligA,DNA ligase,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,uvrB_2,UvrABC system protein B,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,mutS,DNA mismatch repair protein MutS,31,31,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,nth,Endonuclease III;hypothetical protein,14,14,0,True,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,group_1913,Single-stranded DNA-binding protein,2,2,0,False,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. delbrueckii,ssb_1,Single-stranded DNA-binding protein,2,2,0,False,b1210d126c40790bfe1b4f63f347d707533e58266d92f6fdf40cc9b577104f98
+L. plantarum,nth_2~~~nth_1,Endonuclease III,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,ssbA_2~~~ssbA,Single-stranded DNA-binding protein A,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,nox_2~~~nox_4,NADH oxidase,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,uvrA_2~~~uvrA_3~~~uvrA_1,UvrABC system protein A,29,29,2,False,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,trxA_2~~~trxA_3,Thioredoxin,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,nox_4~~~nox_3~~~nox_2,NADH oxidase,29,29,2,False,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,katA_1~~~katA_2~~~katA,Vegetative catalase,26,26,5,False,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,nox_2~~~nox_1,NADH oxidase,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,polA_1~~~polA_2~~~polA,DNA polymerase I,30,30,1,False,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,dnaK,Chaperone protein DnaK,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,radA,DNA repair protein RadA,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,trxA_3,Thioredoxin,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,ytpP,Thioredoxin-like protein YtpP,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,trxA_1,Thioredoxin,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,recR,Recombination protein RecR,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,ruvA,Holliday junction ATP-dependent DNA helicase RuvA,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,nth_2,Endonuclease III,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,recO,DNA repair protein RecO,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,mutM,Formamidopyrimidine-DNA glycosylase,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,trxB,Thioredoxin reductase,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,ruvB,Holliday junction ATP-dependent DNA helicase RuvB,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,recA,Protein RecA,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,nox_3,NADH oxidase,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,recN,DNA repair protein RecN,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,uvrC,UvrABC system protein C,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,uvrB,UvrABC system protein B,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,ligA,DNA ligase,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,uvrA_5,UvrABC system protein A,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,mutS,DNA mismatch repair protein MutS,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,uvrA_1,UvrABC system protein A,31,31,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,mutL_2~~~mutL_1~~~mutL,DNA mismatch repair protein MutL,29,29,1,False,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,mutS_2,DNA mismatch repair protein MutS,10,10,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,ssbA_1~~~ssb~~~ssbA_2,Single-stranded DNA-binding protein A;Single-stranded DNA-binding protein,4,4,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,group_1580,DNA ligase,4,4,0,True,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,ssbA_1,Single-stranded DNA-binding protein;Single-stranded DNA-binding protein A,2,2,0,False,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,ligA_2,DNA ligase,2,2,0,False,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,uvrA_4,UvrABC system protein A,2,2,0,False,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,ytpP_1,Thioredoxin-like protein YtpP,1,1,0,False,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70
+L. plantarum,group_1282,Single-stranded DNA-binding protein,1,1,0,False,451d45719f0b5542bad7e9c9487b1adacc75e3cb880a0b439af4b333ff4a6e70

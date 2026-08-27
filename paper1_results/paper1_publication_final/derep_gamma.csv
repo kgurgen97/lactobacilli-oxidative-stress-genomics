@@ -1,0 +1,4 @@
+species,n_genomes_full,n_clusters,families_full,families_derep,gamma_derep,gamma_low,gamma_high
+L. rhamnosus,31,15,4440,4324,0.1693,0.1369,0.2016
+L. delbrueckii,31,26,3492,3448,0.1961,0.1761,0.2217
+L. plantarum,31,20,6048,5753,0.2294,0.1677,0.2746

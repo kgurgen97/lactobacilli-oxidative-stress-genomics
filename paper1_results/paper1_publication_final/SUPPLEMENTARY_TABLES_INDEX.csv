@@ -1,0 +1,23 @@
+table,file,description,present
+S1,input_manifest_all93.csv,"Input manifest and assembly metrics, 93 genomes",True
+S2,QC_all93.csv,Assembly QC and uniform CheckM2 metrics,True
+S3,analysis_cohort_qc.csv,Prespecified cohort decisions and sensitivity flags,True
+S4,hgt_candidates.csv,GC-compositional outliers among focal-unique genes,True
+S5,curated_regulator_query_manifest.csv,"Curated query proteins, sources, accessions, thresholds",True
+S6,panel_definition.csv,Operational panel definitions and component logic,True
+S7,regulator_resolution_all93.csv,Competitive regulator orthology assignment,True
+S8,derep_gamma.csv,99.5% ANI single-linkage sensitivity and refitted openness,True
+S9,stats_focal_vs_conspecific_descriptive.csv,Descriptive focal/background panel comparison,True
+S10,stats_omega_paired_tests.csv,Paired Wilcoxon tests of omega with Holm correction,True
+S11,stats_rex_contig_position.csv,IAHAHI Rex loci relative to contig ends,True
+S12,stats_rex_split_locus_hits.csv,Fragment-level reviewed-Rex BLASTP hits in IAHAHI,True
+S13,stats_rex_split_locus_pairs.csv,Adjacent complementary IAHAHI Rex hit pairs and frames,True
+S14,stats_pseudogene_control_rawCDS.csv,ORF-integrity screen of Prokka CDS bearing curated symbols,True
+S15,dnds_dS_diagnostics.csv,Pairwise dS diagnostics for the curated DNA-repair families,True
+S16,stats_omega_dS_spearman.csv,Descriptive omega versus mean-dS sensitivity diagnostic,True
+S17,dnds_oxidative_species_specific.csv,Within-species oxidative-defence dN/dS estimates and NE combinations,True
+S18,dnds_dereplicated_sensitivity.csv,Per-gene dN/dS on 99.5% ANI representatives with change versus the full cohort,True
+S19,stats_omega_dereplicated_paired_tests.csv,Paired Wilcoxon tests of omega after dereplication,True
+S20,dnds_dereplicated_robustness_audit.csv,Robustness audit of the central selection result,True
+S21,L_delbrueckii_nearest_subspecies_reference.csv,Nearest fixed subspecies reference for all 31 L. delbrueckii genomes,True
+S22,L_delbrueckii_subspecies_composition_summary.csv,Subspecies composition of the L. delbrueckii cohort,True

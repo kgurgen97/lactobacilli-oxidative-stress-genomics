@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="347.826975pt" height="412.704786pt" viewBox="0 0 347.826975 412.704786" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-26T19:34:58.270704</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 412.704786 
+L 347.826975 412.704786 
+L 347.826975 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 86.963906 382.6944 
+L 286.726106 382.6944 
+L 286.726106 28.4544 
+L 86.963906 28.4544 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pb5da49f1dc)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAMAAAAOCAYAAADqtqZhAAAASUlEQVR4nGNgNUj8n84g/5/VIPE/EwMSYEq6sA/OYWQ1SPwPl2FgYGDgEBCHyKQzyCNk5hk4MTAwMDDMM3BClcE0ADcHZjFuPQA0lxK9dNVWhAAAAABJRU5ErkJggg==" id="image6ed4abc445" transform="matrix(66.666667 0 0 25.357143 86.963906 27.6944)" style="image-rendering:crisp-edges;image-rendering:pixelated" width="3" height="14"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font: 7px 'sans-serif'" transform="translate(79.477424 404.123376)rotate(-18)">L. rhamnosus</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font: 7px 'sans-serif'" transform="translate(147.172657 403.76342)rotate(-18)">L. delbrueckii</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font: 7px 'sans-serif'" transform="translate(215.980922 403.041817)rotate(-18)">L. plantarum</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="43.642235" transform="rotate(-0, 83.463906, 43.642235)">PerR</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="68.945092" transform="rotate(-0, 83.463906, 68.945092)">OhrR</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="94.247949" transform="rotate(-0, 83.463906, 94.247949)">Catalase</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="119.550806" transform="rotate(-0, 83.463906, 119.550806)">Rex</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="144.853663" transform="rotate(-0, 83.463906, 144.853663)">Spx</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_9"/>
+     <g id="text_9">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="170.156521" transform="rotate(-0, 83.463906, 170.156521)">Mn/Fe-SOD marker</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_10"/>
+     <g id="text_10">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="195.459378" transform="rotate(-0, 83.463906, 195.459378)">NADH oxidase</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_11"/>
+     <g id="text_11">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="220.762235" transform="rotate(-0, 83.463906, 220.762235)">Glutathione biosynthesis</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_12"/>
+     <g id="text_12">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="246.065092" transform="rotate(-0, 83.463906, 246.065092)">Thioredoxin system</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_13"/>
+     <g id="text_13">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="271.367949" transform="rotate(-0, 83.463906, 271.367949)">RecA</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_14"/>
+     <g id="text_14">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="296.670806" transform="rotate(-0, 83.463906, 296.670806)">UvrABC</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_15"/>
+     <g id="text_15">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="321.973663" transform="rotate(-0, 83.463906, 321.973663)">Mn transport</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_16"/>
+     <g id="text_16">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="347.276521" transform="rotate(-0, 83.463906, 347.276521)">Mismatch repair</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_17"/>
+     <g id="text_17">
+      <text style="font: 7px 'sans-serif'; text-anchor: end" x="83.463906" y="372.579378" transform="rotate(-0, 83.463906, 372.579378)">Base-excision repair</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_18">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(111.49995 39.146047)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 46.685922)">Vahe +</text>
+   </g>
+   <g id="text_19">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(180.033678 39.146047)">0/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 46.685922)">IAHAHI −</text>
+   </g>
+   <g id="text_20">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(244.67475 39.146047)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 46.685922)">ZPZ +</text>
+   </g>
+   <g id="text_21">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(111.49995 64.448904)">28/28</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 71.988779)">Vahe +</text>
+   </g>
+   <g id="text_22">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(180.033678 64.448904)">0/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 71.988779)">IAHAHI −</text>
+   </g>
+   <g id="text_23">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(244.67475 64.448904)">29/29</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 71.988779)">ZPZ +</text>
+   </g>
+   <g id="text_24">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(113.446278 89.751762)">0/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 97.291637)">Vahe −</text>
+   </g>
+   <g id="text_25">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(180.033678 89.751762)">0/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 97.291637)">IAHAHI −</text>
+   </g>
+   <g id="text_26">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(244.67475 89.751762)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 97.291637)">ZPZ +</text>
+   </g>
+   <g id="text_27">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(111.49995 115.054619)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 122.594494)">Vahe +</text>
+   </g>
+   <g id="text_28">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(178.08735 115.054619)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.257116 122.594494)">IAHAHI ?</text>
+   </g>
+   <g id="text_29">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(244.67475 115.054619)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 122.594494)">ZPZ +</text>
+   </g>
+   <g id="text_30">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(111.49995 140.357476)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 147.897351)">Vahe +</text>
+   </g>
+   <g id="text_31">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(178.08735 140.357476)">29/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 147.897351)">IAHAHI +</text>
+   </g>
+   <g id="text_32">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(244.67475 140.357476)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 147.897351)">ZPZ +</text>
+   </g>
+   <g id="text_33">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(113.446278 165.660333)">0/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 173.200208)">Vahe −</text>
+   </g>
+   <g id="text_34">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(180.033678 165.660333)">0/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 173.200208)">IAHAHI −</text>
+   </g>
+   <g id="text_35">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(246.621078 165.660333)">0/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 173.200208)">ZPZ −</text>
+   </g>
+   <g id="text_36">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(111.49995 190.96319)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 198.503065)">Vahe +</text>
+   </g>
+   <g id="text_37">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(180.033678 190.96319)">0/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 198.503065)">IAHAHI −</text>
+   </g>
+   <g id="text_38">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(244.67475 190.96319)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 198.503065)">ZPZ +</text>
+   </g>
+   <g id="text_39">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(113.446278 216.266047)">0/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 223.805922)">Vahe −</text>
+   </g>
+   <g id="text_40">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(180.033678 216.266047)">0/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 223.805922)">IAHAHI −</text>
+   </g>
+   <g id="text_41">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(246.621078 216.266047)">0/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 223.805922)">ZPZ −</text>
+   </g>
+   <g id="text_42">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(111.49995 241.568904)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 249.108779)">Vahe +</text>
+   </g>
+   <g id="text_43">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(178.08735 241.568904)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 249.108779)">IAHAHI +</text>
+   </g>
+   <g id="text_44">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(244.67475 241.568904)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 249.108779)">ZPZ +</text>
+   </g>
+   <g id="text_45">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(111.49995 266.871762)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 274.411637)">Vahe +</text>
+   </g>
+   <g id="text_46">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(178.08735 266.871762)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 274.411637)">IAHAHI +</text>
+   </g>
+   <g id="text_47">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(244.67475 266.871762)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 274.411637)">ZPZ +</text>
+   </g>
+   <g id="text_48">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(111.49995 292.174619)">28/28</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 299.714494)">Vahe +</text>
+   </g>
+   <g id="text_49">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(178.08735 292.174619)">29/29</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 299.714494)">IAHAHI +</text>
+   </g>
+   <g id="text_50">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(244.67475 292.174619)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 299.714494)">ZPZ +</text>
+   </g>
+   <g id="text_51">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(111.49995 317.477476)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 325.017351)">Vahe +</text>
+   </g>
+   <g id="text_52">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(180.033678 317.477476)">0/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 325.017351)">IAHAHI −</text>
+   </g>
+   <g id="text_53">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(244.67475 317.477476)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 325.017351)">ZPZ +</text>
+   </g>
+   <g id="text_54">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(111.49995 342.780333)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 350.320208)">Vahe +</text>
+   </g>
+   <g id="text_55">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(178.08735 342.780333)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 350.320208)">IAHAHI +</text>
+   </g>
+   <g id="text_56">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(244.67475 342.780333)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 350.320208)">ZPZ +</text>
+   </g>
+   <g id="text_57">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(111.49995 368.08319)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(109.325575 375.623065)">Vahe +</text>
+   </g>
+   <g id="text_58">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(178.08735 368.08319)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(172.159225 375.623065)">IAHAHI +</text>
+   </g>
+   <g id="text_59">
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(244.67475 368.08319)">30/30</text>
+    <text style="fill: #ffffff; font: 7px 'sans-serif'" transform="translate(243.805766 375.623065)">ZPZ +</text>
+   </g>
+   <g id="text_60">
+    <text style="font: 700 10px 'sans-serif'; text-anchor: start" x="58.997198" y="14.446875" transform="rotate(-0, 58.997198, 14.446875)">(a)</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_3">
+    <path d="M 292.779506 382.6944 
+L 310.491506 382.6944 
+L 310.491506 28.4544 
+L 292.779506 28.4544 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#p6c7cf366d4)" style="fill: #ffffff; stroke: #ffffff; stroke-width: 0.01; stroke-linejoin: miter"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAJMAAAuICAYAAADh8423AAAeoklEQVR4nO3dwQndMBRFwS/79ZHy0v8+ltLEAYOZqcCLw90IWevv78/5QeB6+wP4DjGRERMZMZERExkxkRETGTGRERMZMZERE5m519ufwFdYJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIiM/dynkLDMpERExkxkRETGTGRERMZMZERExkxkRETGTGRcdWJjGUiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjKuOpGxTGTEREZMZMRERkxkxERGTGTEREZMZMRERkxkXHUiY5nIiImMmMiIiYyYyIiJjJjIiImMmMiIiYyrTmQsExkxkRETGTGRERMZMZERExkxkRETGTGRERMZV53IWCYyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIuOqExnLREZMZMRERkxkxERGTGTEREZMZMRERkxkxERm1ERFS2TEREZMZMRERkxkxERGTGTEREZMZMRExlUnMpaJjJjIiImMmMiIiYyYyIiJjJjIiImMmMiIiYxXnchYJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIi46oTGctERkxkxERGTGTEREZMZMRERkxkxERGTGTERMZVJzKWiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIiImMe3NkLBMZMZERExkxkRETGTGRERMZMZERExkxkXHViYxlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiLjqhMZy0RGTGTEREZMZMRERkxkxERGTGTEREZMZFx1ImOZyIiJjJjIiImMmMiIiYyYyIiJjJjIiImMmMg4myNjmciIiYyYyIiJjJjIiImMmMiIiYyYyIiJjD/HkbFMZMRERkxkxERGTGTEREZMZMRERkxkxERGTGRcdSJjmciIiYyYyIiJjJjIiImMmMiIiYyYyIiJjKtOZCwTGTGRERMZMZERExkxkRETGTGRERMZMZERExlXnchYJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIi46oTGctERkxkxERGTGTEREZMZMRERkxkxERGTGTERMZVJzKWiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIuOpExjKRERMZMZERExkxkRETGTGRERMZMZERExkxkZnL2RwRy0RGTGTEREZMZMRERkxkxERGTGTEREZMZGb5dRwRy0RGTGTEREZMZMRERkxkxERGTGTEREZMZMREZi5nc0QsExkxkRETGTGRERMZMZERExkxkRETGTGRmXXriYaSyIiJjJjIiImMmMiIiYyYyIiJjJjIiImMmMj4DSEZy0RGTGTEREZMZMRERkxkxERGTGTEREZMZMRExm8IyVgmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiIz69ITDSWRERMZMZERExkxkRETGTGRERMZMZERExkxkXHViYxlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyXnUiY5nIiImMmMiIiYyYyIiJjJjIiImMmMiIiYyYyMy69URDSWTEREZMZMRERkxkxERGTGTEREZMZMRExp/jyFgmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjKzLmdzNCwTGTGRERMZMZERExkxkRETGTGRERMZMZGZy5/jiCiJjJjIiImMmMiIiYyYyIiJjJjIiImMmMiIicwsvyEkYpnIiImMmMiIiYyYyIiJjJjIiImMmMiIiYzjFDKWiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIiImM3xCSURIZMZERExkxkRETGTGRERMZMZERExkxkXHViYxlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiIz1+VsjoZlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYys/w5joiSyIiJjJjIiImMmMiIiYyYyIiJjJjIiImMmMjM5TeERCwTGTGRERMZMZERExkxkRETGTGRERMZMZERExlPhJGxTGTEREZMZMRERkxkxERGTGTEREZMZMRExm8IySiJjJjIiImMmMiIiYyYyIiJjJjIiImMmMiIiYzfEJKxTGTEREZMZMRERkxkxERGTGTEREZMZMREZtblOIWGZSIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIiM5ffEBJREhkxkRETGTGRERMZMZERExkxkRETGTGRmeXPcUQsExkxkRETGTGRERMZMZERExkxkRETGTGREROZWa46EVESGTGRERMZMZERExkxkRETGTGRERMZMZGZdemJhpLIiImMmMiIiYyYyIiJjJjIiImMmMiIiYyYyHjViYySyIiJjJjIiImMmMiIiYyYyIiJjJjIiImMP8eRURIZMZERExkxkRETGTGRERMZMZERExkxkRETGWdzZJRERkxkxERGTGTEREZMZMRERkxkxERGTGS86kRGSWTEREZMZMRERkxkxERGTGTEREZMZMRERkxkZt3329/AR1gmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiLjz3FklERGTGTEREZMZMRERkxkxERGTGTEREZMZMREZi6/ISSiJDJiIiMmMmIiIyYyYiIjJjJiIiMmMmIi46oTGSWRERMZMZERExkxkRETGTGRERMZMZERExkxkXE2R0ZJZMRERkxkxERGTGTEREZMZMRERkxkxERGTGRm+Q0hESWRERMZMZERExkxkRETGTGRERMZMZERExlXncgoiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIiImMszkySiIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMnM5TiGiJDJiIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyXnUioyQyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIuPPcWSUREZMZMRERkxkxERGTGTEREZMZMRERkxkxETG2RwZJZERExkxkRETGTGRERMZMZERExkxkRETGX+OI6MkMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjJz3ffb38BHWCYyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIuPPcWSUREZMZMRERkxkxERGTGTEREZMZMRERkxkxETG2RwZJZERExkxkRETGTGRERMZMZERExkxkRETGa86kVESGTGRERMZMZERExkxkRETGTGRERMZMZERExlXncgoiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIOE4hoyQyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMn5DSEZJZMRERkxkxERGTGTEREZMZMRERkxkxERGTGRmXffb38BHWCYyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIjM/xylELBMZMZERExkxkRETGTGRERMZMZERExkxkRETmfn5DSERJZERExkxkRETGTGRERMZMZERExkxkRETmVm3q040LBMZMZERExkxkRETGTGRERMZMZERExkxkRETGb8hJGOZyIiJjJjIiImMmMiIiYyYyIiJjJjIiImM4xQylomMmMiIiYyYyIiJjJjIiImMmMiIiYyYyIiJzCyvOhFREhkxkRETGTGRERMZMZERExkxkRETGTGRcdWJjGUiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIuNsjoxlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYy/hxHRklkxERGTGTEREZMZMRERkxkxERGTGTEREZMZFx1ImOZyIiJjJjIiImMmMiIiYyYyIiJjJjIiImM4xQylomMmMiIiYyYyIiJjJjIiImMmMiIiYyYyIiJzKzb2RwNy0RGTGTEREZMZMRERkxkxERGTGTEREZMZObnVSciSiIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIi4zeEZCwTGTGRERMZMZERExkxkRETGTGRERMZMZGZ5TiFiGUiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIuM3hGSUREZMZMRERkxkxERGTGTEREZMZMRERkxkxETGvTkylomMmMiIiYyYyIiJjJjIiImMmMiIiYyYyHjViYxlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiLjN4RklERGTGTEREZMZMRERkxkxERGTGTEREZMZGbdrjrRsExkxERGTGTEREZMZMRERkxkxERGTGTEREZMZPyGkIxlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyjlPIWCYyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMrO86kRESWTEREZMZMRERkxkxERGTGTEREZMZMRExlUnMpaJjJjIiImMmMiIiYyYyIiJjJjIiImMmMiIicz8lp5oKImMmMiIiYyYyIiJjJjIiImMmMiIiYyYyDhOIaMkMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjJznM0RURIZMZERExkxkRETGTGRERMZMZERExkxkXHViYySyIiJjJjIiImMmMiIiYyYyIiJjJjIiImMmMjMb623v4GPsExkxERGTGTEREZMZMRERkxkxERGTGTERGZ+l55oKImMmMiIiYyYyIiJjJjIiImMmMiIiYyYyIiJjFedyCiJjJjIiImMmMiIiYyYyIiJjJjIiImMmMiIiYwnwsgoiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIOE4hoyQyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMs7myCiJjJjIiImMmMiIiYyYyIiJjJjIiImMmMh41YmMksiIiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIuOpERklkxERGTGTEREZMZMRERkxkxERGTGTERGZ+a739DXyEZSIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIi46oTGSWRERMZMZERExkxkRETGTGRERMZMZERExmvOpFREhkxkRETGTGRERMZMZERExkxkRETGTGREROZ+V16oqEkMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiLjz3FklERGTGTEREZMZMRERkxkxERGTGTEREZMZMRExtkcGSWRERMZMZERExkxkRETGTGRERMZMZERExnHKWSUREZMZMRERkxkxERGTGTEREZMZMRERkxkxERmjrM5IkoiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjKuOpFREhkxkRETGTGRERMZMZERExkxkRETGTGREROZ+a319jfwEZaJjJjIiImMmMiIiYyYyIiJjJjIiImMmMi46kRGSWTEREZMZMRERkxkxERGTGTEREZMZMRERkxkvOpERklkxERGTGTEREZMZMRERkxkxERGTGTEREZMZNybI6MkMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiIzx6tORCwTGTGRERMZMZERExkxkRETGTGRERMZMZERE5k55+1P4CssExkxkRETGTGRERMZMZERExkxkRETGTGRme08hYhlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiIzTuaoWCYyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIjPbeQoRy0RGTGTEREZMZMRERkxkxERGTGTEREZMZMREZo7fEBKxTGTEREZMZMRERkxkxERGTGTEREZMZMRExlUnMpaJjJjIiImMmMiIiYyYyIiJjJjIiImMmMiIiYxXnchYJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIi46oTGctERkxkxERGTGTEREZMZMRERkxkxERGTGTERMarTmQsExkxkRETGTGRERMZMZERExkxkRETGTGRmf32F/AZlomMmMiIiYyYyIiJjJjIiImMmMiIiYyYyIiJzLjpRMUykRETGTGRERMZMZERExkxkRETGTGRERMZrzqRsUxkxERGTGTEREZMZMRERkxkxERGTGTEREZMZLzqRMYykRETGTGRERMZMZERExkxkRETGTGRERMZMZHxRBgZy0RGTGTEREZMZMRERkxkxERGTGTEREZMZLzqRMYykRETGTGRERMZMZERExkxkRETGTGRERMZMZGZ7XCOiGUiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjLjMIWKZSIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIiM9vhHBHLREZMZMRERkxkxERGTGTEREZMZMRERkxkvOpExjKRERMZMZERExkxkRETGTGRERMZMZERExkxkZn9czhHwzKRERMZMZERExkxkRETGTGRERMZMZERExlXnchYJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyXnUiY5nIiImMmMiIiYyYyIiJjJjIiImMmMiIiYyrTmQsExkxkRETGTGRERMZMZERExkxkRETGTGRERMZrzqRsUxkxERGTGTEREZMZMRERkxkxERGTGTERMZVJzKWiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIiInMbIdzRCwTGTGRERMZMZERExkxkRETGTGRERMZMZGZZ7/9CXyFZSIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIi46oTGctERkxkxERGTGTEREZMZMRERkxkxERGTGTmcZxCxDKRERMZMZERExkxkRETGTGRERMZMZERExkxkXHViYxlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiLjiTAylomMmMiIiYyYyIiJjJjIiImMmMiIiYyYyLjqRMYykRETGTGRERMZMZERExkxkRETGTGRERMZMZHxRBgZy0RGTGTEREZMZMRERkxkxERGTGTEREZMZGY7TSFimciIiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIzONwjohlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyXnUiY5nIiImMmMiIiYyYyIiJjJjIiImMmMiIiYyYyMzjaI6IZSIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMq46kbFMZMRERkxkxERGTGTEREZMZMRERkxkxERGTGS86kTGMpERExkxkRETGTGRERMZMZERExkxkRETGVedyFgmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjJedSJjmciIiYyYyIiJjJjIiImMmMiIiYyYyIiJjKtOZCwTGTGRERMZMZERExkxkRETGTGRERMZMZERE5nZXnUiYpnIiImMmMiIiYyYyIiJjJjIiImMmMiIiYw/x5GxTGTEREZMZMRERkxkxERGTGTEREZMZMRERkxk/IaQjGUiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIjOPszkilomMmMiIiYyYyIiJjJjIiImMmMiIiYyYyHjViYxlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiLjiTAylomMmMiIiYyYyIiJjJjIiImMmMiIiYyYyHjViYxlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiLjVScylomMmMiIiYyYyIiJjJjIiImMmMiIiYyYyMzjVScilomMmMiIiYyYyIiJjJjIiImMmMiIiYyYyIiJjLM5MpaJjJjIiImMmMiIiYyYyIiJjJjIiImMmMg4TiFjmciIiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIOJsjY5nIiImMmMiIiYyYyIiJjJjIiImMmMiIiYzjFDKWiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIiImMszkylomMmMiIiYyYyIiJjJjIiImMmMiIiYyYyDhOIWOZyIiJjJjIiImMmMiIiYyYyIiJjJjIiImMmMg4myNjmciIiYyYyIiJjJjIiImMmMiIiYyYyIiJjOMUMpaJjJjIiImMmMiIiYyYyIiJjJjIiImMmMiIiYyzOTKWiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIzD/HKUQsExkxkRETGTGRERMZMZERExkxkRETGTGRERMZV53IWCYyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMs7myFgmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiIzz3GcQsMykRETGTGRERMZMZERExkxkRETGTGRERMZMZFx1YmMZSIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMo5TyFgmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjLO5shYJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIiM8/eb38DH2GZyIiJjJjIiImMmMiIiYyYyIiJjJjIiImMmMi46kTGMpERExkxkRETGTGRERMZMZERExkxkRETGccpZCwTGTGRERMZMZERExkxkRETGTGRERMZMZERE5n552yOiGUiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjKuOpGxTGTEREZMZMRERkxkxERGTGTEREZMZMRERkxknM2RsUxkxERGTGTEREZMZMRERkxkxERGTGTERMZxChnLREZMZMRERkxkxERGTGTEREZMZMRERkxkxETG2RwZy0RGTGTEREZMZMRERkxkxERGTGTEREZMZBynkLFMZMRERkxkxERGTGTEREZMZMRERkxkxERGTGTmOJsjYpnIiImMmMiIiYyYyIiJjJjIiImMmMiIiYyYyMx2NkfEMpERExkxkRETGTGRERMZMZERExkxkRETmTnHcQoNy0RGTGTEREZMZMRERkxkxERGTGTEREZMZMRExm8IyVgmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiLjz3FkLBMZMZERExkxkRETGTGRERMZMZERExkxkRETmTn77U/gKywTGTGRERMZMZERExkxkRETGTGRERMZMZHxqhMZy0RGTGTEREZMZMRERkxkxERGTGTEREZMZMRExm8IyVgmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiIzx3EKEctERkxkxERGTGTEREZMZMRERkxkxERGTGTERMbZHBnLREZMZMRERkxkxERGTGTEREZMZMRERkxkZnvViYhlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiLjqhMZy0RGTGTEREZMZMRERkxkxERGTGTEREZMZBynkLFMZMRERkxkxERGTGTEREZMZMRERkxkxERGTGRmO5sjYpnIiImMmMiIiYyYyIiJjJjIiImMmMiIicwcrzoRsUxkxERGTGTEREZMZMRERkxkxERGTGTEREZMZObstz+Br7BMZMRERkxkxERGTGTEREZMZMRERkxkxETGn+PIWCYyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMnOczRGxTGTEREZMZMRERkxkxERGTGTEREZMZMRERkxknM2RsUxkxERGTGTEREZMZMRERkxkxERGTGTERGb2cZxCwzKRERMZMZERExkxkRETGTGRERMZMZERExkxkXHViYxlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyjlPIWCYyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMrOdzRGxTGTEREZMZMRERkxkxERGTGTEREZMZMREZo5XnYhYJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyfkNIxjKRERMZMZERExkxkRETGTGRERMZMZERExl/jiNjmciIiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIzNnP29/AR1gmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiLjOIWMZSIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIi42yOjGUiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjJzHscpNCwTGTGRERMZMZERExkxkRETGTGRERMZMZERExlXnchYJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIi4ziFjGUiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjJiIuNsjoxlIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiLjbI6MZSIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMo5TyFgmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiIjJjKznc0RsUxkxERGTGTEREZMZMRERkxkxERGTGTERMZVJzKWiYyYyIiJjJjIiImMmMiIiYyYyIiJjJjIiImMszkylomMmMiIiYyYyIiJjJjIiImMmMiIiYyYyMx5HKfQsExkxERGTGTEREZMZMRERkxkxERGTGTEREZMZFx1ImOZyIiJjJjIiImMmMiIiYyYyIiJjJjIiImM4xQylomMmMiIiYyYyIiJjJjIiImMmMiIiYyYyIiJjLM5MpaJjJjIiImMmMiIiYyYyIiJjJjIiImMmMjM2fvtb+AjLBMZMZERExkxkRETGTGRERMZMZERExkxkRETGVedyFgmMmIiIyYyYiIjJjJiIiMmMmIiIyYyYiLjOIWMZSIjJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIiM9vZHBHLREZMZMRERkxkxERGTGTEREZMZMRERkxk5jyOU2hYJjJiIiMmMmIiIyYyYiIjJjJiIiMmMmIiIyYyfkNIxjKRERMZMZERExkxkRETGTGRERMZMZERExnHKWQsExkxkRETGTGRERMZMZERExkxkRETGTGRERMZZ3NkLBMZMZERExkxkRETGTGRERMZMZERExkxkRETGWdzZCwTGTGRERMZMZERExkxkRETGTGRERMZMZH5DwncfLJ0SVv7AAAAAElFTkSuQmCC" id="imaged4327c2646" transform="scale(1 -1)translate(0 -354.24)" x="292.8" y="-28.44" width="17.64" height="354.24"/>
+   <g id="matplotlib.axis_3">
+    <g id="ytick_15">
+     <g id="line2d_18">
+      <defs>
+       <path id="m4f99bea1a4" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4f99bea1a4" x="310.491506" y="382.6944" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_61">
+      <text style="font: 7px 'sans-serif'; text-anchor: start" x="317.491506" y="385.230806" transform="rotate(-0, 317.491506, 385.230806)">0</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m4f99bea1a4" x="310.491506" y="294.1344" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_62">
+      <text style="font: 7px 'sans-serif'; text-anchor: start" x="317.491506" y="296.670806" transform="rotate(-0, 317.491506, 296.670806)">25</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m4f99bea1a4" x="310.491506" y="205.5744" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_63">
+      <text style="font: 7px 'sans-serif'; text-anchor: start" x="317.491506" y="208.110806" transform="rotate(-0, 317.491506, 208.110806)">50</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m4f99bea1a4" x="310.491506" y="117.0144" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_64">
+      <text style="font: 7px 'sans-serif'; text-anchor: start" x="317.491506" y="119.550806" transform="rotate(-0, 317.491506, 119.550806)">75</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m4f99bea1a4" x="310.491506" y="28.4544" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_65">
+      <text style="font: 7px 'sans-serif'; text-anchor: start" x="317.491506" y="30.990806" transform="rotate(-0, 317.491506, 30.990806)">100</text>
+     </g>
+    </g>
+    <g id="text_66">
+     <text style="font: 8px 'sans-serif'; text-anchor: middle" x="338.966975" y="205.5744" transform="rotate(-90, 338.966975, 205.5744)">Reference prevalence (%)</text>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb5da49f1dc">
+   <rect x="86.963906" y="28.4544" width="199.7622" height="354.24"/>
+  </clipPath>
+  <clipPath id="p6c7cf366d4">
+   <rect x="292.779506" y="28.4544" width="17.712" height="354.24"/>
+  </clipPath>
+ </defs>
+</svg>

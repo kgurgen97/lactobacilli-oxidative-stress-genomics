@@ -1,0 +1,10 @@
+test,scope,statistic,value,detail
+ANI clustering + refitted gamma,L. rhamnosus,gamma_derep,0.1693,15 clusters at 99.5% ANI
+ANI clustering + refitted gamma,L. delbrueckii,gamma_derep,0.1961,26 clusters at 99.5% ANI
+ANI clustering + refitted gamma,L. plantarum,gamma_derep,0.2294,20 clusters at 99.5% ANI
+Descriptive focal vs conspecific panel,all species x strict13 targets,rows,39,No inferential p-values: one focal genome per species.
+Wilcoxon signed-rank (omega),L. delbrueckii vs L. plantarum,Holm-adjusted p,0.0059,n=10 paired genes; higher median L. delbrueckii
+Wilcoxon signed-rank (omega),L. delbrueckii vs L. rhamnosus,Holm-adjusted p,0.0059,n=10 paired genes; higher median L. delbrueckii
+Wilcoxon signed-rank (omega),L. plantarum vs L. rhamnosus,Holm-adjusted p,0.3223,n=10 paired genes; higher median L. plantarum
+Rex contig-edge check,IAHAHI,within 200 bp of contig edge,False,P1AC7D15BF_00869 on VRTP01000005.1; 32124 bp / 55388 bp from contig ends
+Rex split-locus test,IAHAHI,combined query coverage (%),86.51,P1AC7D15BF_00870 + P1AC7D15BF_00869; gap=0 bp; different frames=True. Orthology remains unresolved.

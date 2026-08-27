@@ -1,0 +1,2 @@
+control_type,query,pident,coverage,evalue,bitscore,passed_threshold,independent_biological_control
+synthetic computational execution control,E. coli SodA protein sequence used by this notebook,100.0,100.0,1.2e-158,424.0,True,False

@@ -1,0 +1,27 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Pipeline working directories — large, regenerable, not part of the record
+prokka/
+panaroo/
+checkm2/
+ncbi_dataset/
+*.zip
+genomes/*.fna
+genomes/*.fasta.gz
+
+# Per-run caches and checkpoints
+*_checkpoint*/
+*.tmp
+*.log
+
+# OS noise
+.DS_Store
+Thumbs.db

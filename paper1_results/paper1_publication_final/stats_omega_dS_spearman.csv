@@ -1,0 +1,4 @@
+species,n_curated_families,dS_metric,spearman_rho,p_value_unadjusted,diagnostic_status,interpretation
+L. rhamnosus,10,mean_dS under joint dN/dS validity mask,-0.33333333333333326,0.34659350708733405,descriptive_diagnostic_completed,descriptive low-dS sensitivity diagnostic; not evidence for or against pseudogenization
+L. delbrueckii,10,mean_dS under joint dN/dS validity mask,-0.5030303030303029,0.13833369839449197,descriptive_diagnostic_completed,descriptive low-dS sensitivity diagnostic; not evidence for or against pseudogenization
+L. plantarum,10,mean_dS under joint dN/dS validity mask,-0.33333333333333326,0.34659350708733405,descriptive_diagnostic_completed,descriptive low-dS sensitivity diagnostic; not evidence for or against pseudogenization

@@ -1,0 +1,30 @@
+species,full_category,dereplicated_category,families,n_genomes_full,n_genomes_dereplicated
+L. rhamnosus,Core,Core,2000,31,15
+L. rhamnosus,Shell,Shell,1025,31,15
+L. rhamnosus,Cloud,Cloud,951,31,15
+L. rhamnosus,Shell,Cloud,146,31,15
+L. rhamnosus,Soft-core,Shell,103,31,15
+L. rhamnosus,Cloud,Not retained,85,31,15
+L. rhamnosus,Cloud,Shell,65,31,15
+L. rhamnosus,Soft-core,Core,32,31,15
+L. rhamnosus,Shell,Not retained,31,31,15
+L. rhamnosus,Shell,Core,2,31,15
+L. delbrueckii,Core,Core,1152,31,26
+L. delbrueckii,Cloud,Cloud,1124,31,26
+L. delbrueckii,Shell,Shell,954,31,26
+L. delbrueckii,Soft-core,Soft-core,102,31,26
+L. delbrueckii,Cloud,Shell,80,31,26
+L. delbrueckii,Cloud,Not retained,44,31,26
+L. delbrueckii,Shell,Cloud,18,31,26
+L. delbrueckii,Soft-core,Core,12,31,26
+L. delbrueckii,Shell,Soft-core,6,31,26
+L. plantarum,Core,Core,2324,31,20
+L. plantarum,Cloud,Cloud,1943,31,20
+L. plantarum,Shell,Shell,1060,31,20
+L. plantarum,Cloud,Not retained,293,31,20
+L. plantarum,Cloud,Shell,249,31,20
+L. plantarum,Soft-core,Soft-core,79,31,20
+L. plantarum,Shell,Cloud,67,31,20
+L. plantarum,Shell,Soft-core,21,31,20
+L. plantarum,Soft-core,Core,10,31,20
+L. plantarum,Shell,Not retained,2,31,20

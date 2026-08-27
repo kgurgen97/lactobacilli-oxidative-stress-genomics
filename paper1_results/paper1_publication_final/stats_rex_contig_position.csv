@@ -1,0 +1,4 @@
+strain,locus_tag,contig,start,end,strand,contig_length,distance_to_5prime_end,distance_to_3prime_end,within_200bp_of_contig_edge,interpretation
+IAHAHI,P1AC7D15BF_00869,VRTP01000005.1,32124,32396,-,87784,32124,55388,False,not a contig-edge truncation; consistent with a divergent locus
+IAHAHI,P1AC7D15BF_00870,VRTP01000005.1,32393,32806,-,87784,32393,54978,False,not a contig-edge truncation; consistent with a divergent locus
+IAHAHI,P1AC7D15BF_01345,VRTP01000011.1,43912,45381,+,54673,43912,9292,False,not a contig-edge truncation; consistent with a divergent locus

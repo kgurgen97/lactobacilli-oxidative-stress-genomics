@@ -1,0 +1,4 @@
+species_a,species_b,n_genes,median_a,median_b,a_higher,b_higher,equal,wilcoxon_W,p_value,p_value_holm,significant_holm_005
+L. delbrueckii,L. plantarum,10,0.1300558181871064,0.03517611254708025,10,0,0,0.0,0.001953125,0.005859375,True
+L. delbrueckii,L. rhamnosus,10,0.1300558181871064,0.015671708328247,10,0,0,0.0,0.001953125,0.005859375,True
+L. plantarum,L. rhamnosus,10,0.03517611254708025,0.015671708328247,6,4,0,15.0,0.232421875,0.232421875,False

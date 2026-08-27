@@ -1,0 +1,15 @@
+target,L. delbrueckii,L. plantarum,L. rhamnosus
+PerR,0/30; IAHAHI −,30/30; ZPZ +,30/30; Vahe +
+OhrR,0/30; IAHAHI −,29/29; ZPZ +,28/28; Vahe +
+Catalase,0/30; IAHAHI −,30/30; ZPZ +,0/30; Vahe −
+Rex,30/30; IAHAHI ?,30/30; ZPZ +,30/30; Vahe +
+Spx,29/30; IAHAHI +,30/30; ZPZ +,30/30; Vahe +
+SOD,0/30; IAHAHI −,0/30; ZPZ −,0/30; Vahe −
+Nox,0/30; IAHAHI −,30/30; ZPZ +,30/30; Vahe +
+Glutathione_system,0/30; IAHAHI −,0/30; ZPZ −,0/30; Vahe −
+Thioredoxin_system,30/30; IAHAHI +,30/30; ZPZ +,30/30; Vahe +
+RecA,30/30; IAHAHI +,30/30; ZPZ +,30/30; Vahe +
+UvrABC,29/29; IAHAHI +,30/30; ZPZ +,28/28; Vahe +
+Mn_transport,0/30; IAHAHI −,30/30; ZPZ +,30/30; Vahe +
+Mismatch_repair,30/30; IAHAHI +,30/30; ZPZ +,30/30; Vahe +
+Base_excision_repair,30/30; IAHAHI +,30/30; ZPZ +,30/30; Vahe +

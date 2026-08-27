@@ -1,0 +1,4 @@
+species,n_sequences,n_genes,non_triplet_sequences,sequences_with_internal_stop,missing_canonical_start,missing_terminal_stop,pct_non_triplet,pct_internal_stop
+L. delbrueckii,375,10,0,0,0,0,0.0,0.0
+L. plantarum,368,10,0,0,0,0,0.0,0.0
+L. rhamnosus,472,10,0,0,0,0,0.0,0.0

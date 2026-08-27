@@ -1,0 +1,2 @@
+strain,query_accession,locus_a,locus_b,contig,strand,genomic_gap_bp,frame_a,frame_b,different_genomic_frames,query_union_aa,query_overlap_aa,query_overlap_pct,combined_query_coverage_pct,candidate_split_locus
+IAHAHI,O05521,P1AC7D15BF_00870,P1AC7D15BF_00869,VRTP01000005.1,-,0,0,2,True,186,0,0.0,86.51162790697674,True

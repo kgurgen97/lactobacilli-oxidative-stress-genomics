@@ -1,0 +1,4 @@
+nearest_fixed_reference_group,n_genomes,n_ANI_clusters,median_best_ANI,minimum_margin_pp,median_margin_pp
+subsp. lactis (DSM 20072 lineage),18,15,97.9303,0.008299999999991314,0.18854999999999933
+"subsp. bulgaricus (ATCC 11842, type)",7,6,98.9455,0.06230000000000757,1.9819999999999993
+subsp. delbrueckii (DSM 20074 lineage),6,6,97.6962,0.0033999999999991815,0.3061000000000007

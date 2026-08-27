@@ -1,0 +1,2 @@
+strain,supported_assignment,best_reference,best_accession,best_ANI,second_reference,second_ANI,ANI_margin_percentage_points,interpretation
+IAHAHI,Lactobacillus delbrueckii subsp. bulgaricus,"subsp. bulgaricus (ATCC 11842, type)",GCF_000056065.1,98.9455,subsp. delbrueckii (DSM 20074 lineage),96.9635,1.9819999999999993,supports subsp. bulgaricus among the three fixed references

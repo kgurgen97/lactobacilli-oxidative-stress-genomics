@@ -1,0 +1,1303 @@
+panel,species,accession,is_focal,target,call,component_calls,evidence,rule
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_000743075.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_000801045.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_000814485.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_000932035.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001005625.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001044025.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,UvrABC,,uvrA=1;uvrB=1;uvrC=NE,unresolved_component_evidence,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001044415.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001062885.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001062955.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001063655.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001064515.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,UvrABC,,uvrA=1;uvrB=1;uvrC=NE,unresolved_component_evidence,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001064785.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001065365.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001066715.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001066975.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001067025.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001067215.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001067335.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001067625.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001067885.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001068015.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001068045.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001068195.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001068215.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001368735.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,OhrR,,ohrR=NE,unresolved_component_evidence,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001590655.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001645615.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001656535.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_001656545.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,OhrR,,ohrR=NE,unresolved_component_evidence,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,GCF_900636965.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. rhamnosus,Vahe,True,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. rhamnosus,Vahe,True,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. rhamnosus,Vahe,True,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. rhamnosus,Vahe,True,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. rhamnosus,Vahe,True,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. rhamnosus,Vahe,True,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. rhamnosus,Vahe,True,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. rhamnosus,Vahe,True,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. rhamnosus,Vahe,True,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. rhamnosus,Vahe,True,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. rhamnosus,Vahe,True,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. rhamnosus,Vahe,True,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. rhamnosus,Vahe,True,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. rhamnosus,Vahe,True,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_000056065.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=0;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_002847905.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_003545935.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_004211505.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=0;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_004211735.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_009362855.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_009734125.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_014830125.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_015377785.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_019583415.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=0;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600185.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600205.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,Spx,0.0,spx=0,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600245.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600265.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600345.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600365.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=0;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600385.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600405.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600425.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600445.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=0;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600465.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=0;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600485.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600505.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600525.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=0;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600545.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600565.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,UvrABC,,uvrA=1;uvrB=1;uvrC=NE,unresolved_component_evidence,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600585.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600605.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600625.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,GCF_021600645.1,False,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. delbrueckii,IAHAHI,True,PerR,0.0,perR=0,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. delbrueckii,IAHAHI,True,OhrR,0.0,ohrR=0,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. delbrueckii,IAHAHI,True,Catalase,0.0,catalase=0,annotation_sequence_concordant,Catalase
+module14_recommended,L. delbrueckii,IAHAHI,True,Rex,,rex=NE,unresolved_component_evidence,NADH/NAD+ redox regulator
+module14_recommended,L. delbrueckii,IAHAHI,True,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. delbrueckii,IAHAHI,True,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. delbrueckii,IAHAHI,True,Nox,0.0,noxE=0,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. delbrueckii,IAHAHI,True,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. delbrueckii,IAHAHI,True,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. delbrueckii,IAHAHI,True,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. delbrueckii,IAHAHI,True,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. delbrueckii,IAHAHI,True,Mn_transport,0.0,mntH=0;mntA=0;mntB=1;mntC=0,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. delbrueckii,IAHAHI,True,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. delbrueckii,IAHAHI,True,Base_excision_repair,1.0,mutM=1;nth=0,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_000687495.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_000687495.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_000687495.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_000687495.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_000687495.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_000687495.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_000687495.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_000687495.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_000687495.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_000687495.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_000687495.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_000687495.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_000687495.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_000687495.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_000731855.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_000731855.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_000731855.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_000731855.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_000731855.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_000731855.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_000731855.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_000731855.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_000731855.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_000731855.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_000731855.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_000731855.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_000731855.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_000731855.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_000743895.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_000743895.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_000743895.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_000743895.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_000743895.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_000743895.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_000743895.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_000743895.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_000743895.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_000743895.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_000743895.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_000743895.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_000743895.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_000743895.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_000764285.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_000764285.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_000764285.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_000764285.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_000764285.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_000764285.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_000764285.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_000764285.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_000764285.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_000764285.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_000764285.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_000764285.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_000764285.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_000764285.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_000931425.2,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_000931425.2,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_000931425.2,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_000931425.2,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_000931425.2,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_000931425.2,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_000931425.2,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_000931425.2,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_000931425.2,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_000931425.2,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_000931425.2,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_000931425.2,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_000931425.2,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_000931425.2,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_000956195.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_000956195.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_000956195.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_000956195.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_000956195.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_000956195.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_000956195.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_000956195.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_000956195.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_000956195.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_000956195.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_000956195.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_000956195.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_000956195.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_000966475.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_000966475.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_000966475.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_000966475.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_000966475.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_000966475.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_000966475.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_000966475.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_000966475.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_000966475.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_000966475.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_000966475.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_000966475.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_000966475.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001005695.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001005695.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001005695.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001005695.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001005695.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001005695.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001005695.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001005695.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001005695.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001005695.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001005695.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001005695.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001005695.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001005695.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001005805.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001005805.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001005805.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001005805.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001005805.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001005805.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001005805.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001005805.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001005805.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001005805.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001005805.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001005805.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001005805.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001005805.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001010175.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001010175.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001010175.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001010175.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001010175.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001010175.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001010175.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001010175.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001010175.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001010175.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001010175.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001010175.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001010175.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001010175.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001267905.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001267905.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001267905.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001267905.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001267905.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001267905.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001267905.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001267905.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001267905.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001267905.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001267905.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001267905.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001267905.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001267905.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001278015.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001278015.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001278015.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001278015.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001278015.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001278015.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001278015.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001278015.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001278015.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001278015.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001278015.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001278015.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001278015.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001278015.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001296095.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001296095.1,False,OhrR,,ohrR=NE,unresolved_component_evidence,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001296095.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001296095.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001296095.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001296095.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001296095.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001296095.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001296095.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001296095.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001296095.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001296095.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001296095.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001296095.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001302645.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001302645.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001302645.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001302645.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001302645.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001302645.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001302645.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001302645.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001302645.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001302645.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001302645.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001302645.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001302645.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001302645.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001308305.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001308305.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001308305.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001308305.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001308305.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001308305.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001308305.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001308305.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001308305.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001308305.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001308305.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001308305.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001308305.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001308305.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001331925.2,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001331925.2,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001331925.2,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001331925.2,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001331925.2,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001331925.2,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001331925.2,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001331925.2,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001331925.2,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001331925.2,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001331925.2,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001331925.2,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001331925.2,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001331925.2,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001368775.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001368775.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001368775.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001368775.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001368775.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001368775.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001368775.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001368775.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001368775.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001368775.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001368775.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001368775.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001368775.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001368775.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001436855.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001436855.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001436855.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001436855.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001436855.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001436855.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001436855.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001436855.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001436855.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001436855.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001436855.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001436855.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001436855.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001436855.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001444495.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001444495.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001444495.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001444495.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001444495.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001444495.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001444495.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001444495.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001444495.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001444495.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001444495.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001444495.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001444495.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001444495.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001484005.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001484005.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001484005.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001484005.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001484005.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001484005.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001484005.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001484005.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001484005.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001484005.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001484005.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001484005.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001484005.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001484005.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001540925.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001540925.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001540925.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001540925.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001540925.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001540925.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001540925.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001540925.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001540925.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001540925.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001540925.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001540925.1,False,Mn_transport,1.0,mntH=1;mntA=1;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001540925.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001540925.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001540965.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001540965.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001540965.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001540965.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001540965.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001540965.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001540965.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001540965.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001540965.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001540965.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001540965.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001540965.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001540965.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001540965.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001581895.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001581895.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001581895.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001581895.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001581895.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001581895.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001581895.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001581895.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001581895.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001581895.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001581895.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001581895.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001581895.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001581895.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001595615.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001595615.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001595615.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001595615.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001595615.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001595615.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001595615.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001595615.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001595615.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001595615.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001595615.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001595615.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001595615.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001595615.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001596095.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001596095.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001596095.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001596095.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001596095.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001596095.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001596095.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001596095.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001596095.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001596095.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001596095.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001596095.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001596095.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001596095.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001596195.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001596195.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001596195.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001596195.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001596195.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001596195.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001596195.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001596195.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001596195.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001596195.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001596195.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001596195.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001596195.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001596195.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001597605.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001597605.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001597605.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001597605.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001597605.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001597605.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001597605.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001597605.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001597605.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001597605.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001597605.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001597605.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001597605.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001597605.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001617525.2,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001617525.2,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001617525.2,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001617525.2,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001617525.2,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001617525.2,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001617525.2,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001617525.2,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001617525.2,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001617525.2,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001617525.2,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001617525.2,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001617525.2,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001617525.2,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_001619265.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_001619265.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_001619265.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_001619265.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_001619265.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_001619265.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_001619265.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_001619265.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_001619265.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_001619265.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_001619265.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_001619265.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_001619265.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_001619265.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,GCF_009913655.1,False,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,GCF_009913655.1,False,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,GCF_009913655.1,False,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,GCF_009913655.1,False,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,GCF_009913655.1,False,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,GCF_009913655.1,False,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,GCF_009913655.1,False,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,GCF_009913655.1,False,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,GCF_009913655.1,False,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,GCF_009913655.1,False,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,GCF_009913655.1,False,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,GCF_009913655.1,False,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,GCF_009913655.1,False,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,GCF_009913655.1,False,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth
+module14_recommended,L. plantarum,ZPZ,True,PerR,1.0,perR=1,annotation_sequence_concordant,Peroxide-stress regulator
+module14_recommended,L. plantarum,ZPZ,True,OhrR,1.0,ohrR=1,annotation_sequence_concordant,Organic-hydroperoxide regulator
+module14_recommended,L. plantarum,ZPZ,True,Catalase,1.0,catalase=1,annotation_sequence_concordant,Catalase
+module14_recommended,L. plantarum,ZPZ,True,Rex,1.0,rex=1,annotation_sequence_concordant,NADH/NAD+ redox regulator
+module14_recommended,L. plantarum,ZPZ,True,Spx,1.0,spx=1,annotation_sequence_concordant,Spx; competitive sequence call remains provisional
+module14_recommended,L. plantarum,ZPZ,True,SOD,0.0,sod=0,annotation_sequence_concordant,Canonical Mn/Fe superoxide dismutase
+module14_recommended,L. plantarum,ZPZ,True,Nox,1.0,noxE=1,annotation_sequence_concordant,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,L. plantarum,ZPZ,True,Glutathione_system,0.0,gshF=0;gshA=0;gshB=0,contains_annotation_only,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,L. plantarum,ZPZ,True,Thioredoxin_system,1.0,trxA=1;trxB=1,contains_annotation_only,trxA AND trxB
+module14_recommended,L. plantarum,ZPZ,True,RecA,1.0,recA=1,annotation_sequence_concordant,RecA
+module14_recommended,L. plantarum,ZPZ,True,UvrABC,1.0,uvrA=1;uvrB=1;uvrC=1,annotation_sequence_concordant,uvrA AND uvrB AND uvrC
+module14_recommended,L. plantarum,ZPZ,True,Mn_transport,1.0,mntH=1;mntA=0;mntB=1;mntC=1,contains_annotation_only,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,L. plantarum,ZPZ,True,Mismatch_repair,1.0,mutS=1;mutL=1,contains_annotation_only,mutS AND mutL
+module14_recommended,L. plantarum,ZPZ,True,Base_excision_repair,1.0,mutM=1;nth=1,contains_annotation_only,mutM OR nth

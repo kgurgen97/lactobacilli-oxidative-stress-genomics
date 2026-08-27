@@ -1,0 +1,3 @@
+strain,query_accession,query_sha256,locus_tag,pident,alignment_length_aa,query_length_aa,subject_length_aa,query_start_aa,query_end_aa,subject_start_aa,subject_end_aa,query_coverage_pct,evalue,bitscore,contig,genomic_start,genomic_end,strand,gff_phase,genomic_frame
+IAHAHI,O05521,2802baf081ec4bfc5b097c5a253aa3646c8c809d6011511497e06e7c4980c516,P1AC7D15BF_00870,65.546,119,215,137,7,125,6,124,55.348837209302324,2.88e-44,140.0,VRTP01000005.1,32393,32806,-,0,0
+IAHAHI,O05521,2802baf081ec4bfc5b097c5a253aa3646c8c809d6011511497e06e7c4980c516,P1AC7D15BF_00869,50.725,69,215,90,139,205,1,69,32.093023255813954,2.32e-21,80.5,VRTP01000005.1,32124,32396,-,0,2

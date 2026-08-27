@@ -1,0 +1,3 @@
+comparison,n_genes,n_delbrueckii_higher,all_genes_same_direction,holm_p,significant_holm_005,strong_robustness_support
+L. delbrueckii vs L. rhamnosus,10,10,True,0.005859375,True,True
+L. delbrueckii vs L. plantarum,10,10,True,0.005859375,True,True

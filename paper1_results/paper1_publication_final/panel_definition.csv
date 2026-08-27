@@ -1,0 +1,28 @@
+panel,target,components,logic,operational_definition
+strict13,PerR,perR,single,Peroxide-stress regulator
+strict13,OhrR,ohrR,single,Organic-hydroperoxide regulator
+strict13,Catalase,catalase,single,Catalase
+strict13,Fur,fur,single,"Strict Fur, excluding Zur-like generic calls"
+strict13,Rex,rex,single,NADH/NAD+ redox regulator
+strict13,Spx,spx,single,Spx; competitive sequence call remains provisional
+strict13,SOD,sod,single,Canonical Mn/Fe superoxide dismutase
+strict13,Nox,noxE,single,Water-forming NADH oxidase; generic ndh excluded
+strict13,Glutathione_system,gshF;gshA;gshB,gsh,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+strict13,Thioredoxin_system,trxA;trxB,all,trxA AND trxB
+strict13,RecA,recA,single,RecA
+strict13,UvrABC,uvrA;uvrB;uvrC,all,uvrA AND uvrB AND uvrC
+strict13,Mn_transport,mntH;mntA;mntB;mntC,mn,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,PerR,perR,single,Peroxide-stress regulator
+module14_recommended,OhrR,ohrR,single,Organic-hydroperoxide regulator
+module14_recommended,Catalase,catalase,single,Catalase
+module14_recommended,Rex,rex,single,NADH/NAD+ redox regulator
+module14_recommended,Spx,spx,single,Spx; competitive sequence call remains provisional
+module14_recommended,SOD,sod,single,Canonical Mn/Fe superoxide dismutase
+module14_recommended,Nox,noxE,single,Water-forming NADH oxidase; generic ndh excluded
+module14_recommended,Glutathione_system,gshF;gshA;gshB,gsh,Glutathione biosynthesis markers: gshF OR (gshA AND gshB)
+module14_recommended,Thioredoxin_system,trxA;trxB,all,trxA AND trxB
+module14_recommended,RecA,recA,single,RecA
+module14_recommended,UvrABC,uvrA;uvrB;uvrC,all,uvrA AND uvrB AND uvrC
+module14_recommended,Mn_transport,mntH;mntA;mntB;mntC,mn,mntH OR (mntA AND mntB AND mntC)
+module14_recommended,Mismatch_repair,mutS;mutL,all,mutS AND mutL
+module14_recommended,Base_excision_repair,mutM;nth,any,mutM OR nth
